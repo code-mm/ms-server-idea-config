@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5dfaf524-4943-49d7-8602-c6b7f58339be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/wxfggzs/app/dgraph/cyzqj/PangleTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../open-api-sdk-v2/src/test/java/com/wxfggzs/app/cyzqj/PangleTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dgraph-design-v2/src/main/java/com/wxfggzs/app/UpdateDgraphSchema1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dgraph-design-v2/src/main/java/com/wxfggzs/app/UpdateDgraphSchema1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dgraph-design-v2/version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../dgraph-design-v2/version.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-sdk-dgraph/src/main/java/com/wxfggzs/sdk/dgraph/DGraphClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-sdk-dgraph/src/main/java/com/wxfggzs/sdk/dgraph/DGraphClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-admin-v3/src/main/java/com/wxfggzs/app/component/LogServiceTakeTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-admin-v3/src/main/java/com/wxfggzs/app/component/LogServiceTakeTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/广告回调地址.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/广告回调地址.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pangle_header.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pangle_header.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxfggzs/app/CoreV2MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxfggzs/app/CoreV2MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxfggzs/app/dgraph/impl/DWallpaperServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxfggzs/app/dgraph/impl/DWallpaperServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/wxfggzs/app/OutApkEn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wxfggzs/app/OutApkEn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/wxfggzs/app/dgraph/cliennt/AddClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wxfggzs/app/dgraph/cliennt/AddClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/wxfggzs/app/dgraph/sydhzs/AddPangleAdUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wxfggzs/app/dgraph/sydhzs/AddPangleAdUnit.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ms-core-v3" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ms-core-v3" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ms-core-v3" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLabMergeRequestsSettings"><![CDATA[{}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/com/wxfggzs/dgraph-graphql-types2/3.9.6/dgraph-graphql-types2-3.9.6.jar!/com/wxfggzs/dgraph/types/client/AddDWZHeroGraphQLQuery.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/com/wxfggzs/dgraph-graphql-types2/3.9.7/dgraph-graphql-types2-3.9.7.jar!/com/wxfggzs/dgraph/types/client/QueryDWZHeroGraphQLQuery.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2XO6Fj0mq2KQ6WuWJ1tjfmcx2iM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.M0.executor": "Run",
+    "Docker.M1.executor": "Run",
+    "Docker.M2.executor": "Run",
+    "Docker.Z0.executor": "Run",
+    "Docker.测试.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.AESUtilsTests.dData.executor": "Run",
+    "Gradle.AESUtilsTests.iosAuth.executor": "Run",
+    "Gradle.AESUtilsTests.testGraphql.executor": "Run",
+    "Gradle.APP包更新配置.a.executor": "Run",
+    "Gradle.AddClient.createClient.executor": "Run",
+    "Gradle.AddClient.outAllInfo.executor": "Run",
+    "Gradle.AddClient.outGradleConfig.executor": "Run",
+    "Gradle.AddClient.updateDClient.executor": "Run",
+    "Gradle.AddClient.updateIcon.executor": "Run",
+    "Gradle.AddDClientWeChatConfigTests.addAlipayConfig1.executor": "Run",
+    "Gradle.AddDGameSkinRedemptionCodeConfig.add0.executor": "Run",
+    "Gradle.AddDGameSkinRedemptionCodeConfig.add1.executor": "Run",
+    "Gradle.AddDGameSkinRedemptionCodeConfig.add1222.executor": "Run",
+    "Gradle.AddDGameSkinRedemptionCodeConfig.add222.executor": "Run",
+    "Gradle.AddDGameSkinRedemptionCodeConfig.addDGameSkinRedemptionCodeUseDesc.executor": "Run",
+    "Gradle.AddDGameSkinRedemptionCodeConfig.addGames.executor": "Run",
+    "Gradle.AddGameSKinBanner.add.executor": "Run",
+    "Gradle.AddGameSkin.addDGameSkin.executor": "Run",
+    "Gradle.AddGameSkin.addGame.executor": "Run",
+    "Gradle.AddGameSkin.getAll.executor": "Run",
+    "Gradle.AddGameSkinConfig.addGame (1).executor": "Run",
+    "Gradle.AddGameSkinConfig.addGame.executor": "Run",
+    "Gradle.AddHero.add.executor": "Run",
+    "Gradle.AddPangleAdUnit.download.executor": "Run",
+    "Gradle.Build ms-core-v2.executor": "Run",
+    "Gradle.Categorys.readCategorys.executor": "Run",
+    "Gradle.PangleTask.add.executor": "Run",
+    "Gradle.UpdateSkinJob.addNewSkin.executor": "Run",
+    "Gradle.ms-core-v2 [:CoreV2MainApplication.main()].executor": "Run",
+    "Gradle.ms-core-v2 [:OutApkEn.main()].executor": "Run",
+    "Gradle.ms-core-v2 [:gc-graphql-types-v2:publishToMavenLocal].executor": "Run",
+    "Gradle.ms-core-v2 [:java-sdk-dgraph:publishToMavenLocal].executor": "Run",
+    "Gradle.ms-core-v2 [bootJar].executor": "Run",
+    "Gradle.ms-core-v2 [generateJava].executor": "Run",
+    "Gradle.ms-core-v3 [:CoreV2MainApplication.main()].executor": "Run",
+    "Gradle.ms-core-v3 [:OutApkEn.main()].executor": "Run",
+    "Gradle.ms-core-v3 [:gc-graphql-types-v2:publishToMavenLocal].executor": "Run",
+    "Gradle.ms-core-v3 [:gc-graphql-types-v2:publish].executor": "Run",
+    "Gradle.ms-core-v3 [bootJar].executor": "Run",
+    "Gradle.ms-core-v3 [clean].executor": "Run",
+    "Gradle.ms-core-v3 [generateJava].executor": "Run",
+    "Gradle.兑换码配置.add0 (1).executor": "Run",
+    "Gradle.兑换码配置.add0.executor": "Run",
+    "Gradle.兑换码配置.add1.executor": "Run",
+    "Gradle.删除微信绑定.deleteWeChat.executor": "Run",
+    "Gradle.更新用户信息.updateUserInfo.executor": "Run",
+    "Gradle.构建 ms-core-v2.executor": "Run",
+    "Gradle.构建 ms-core-v3.executor": "Run",
+    "Gradle.查询易盾.add.executor": "Run",
+    "Gradle.查询易盾.q.executor": "Run",
+    "Gradle.查询测试用户.d.executor": "Run",
+    "Gradle.查询测试用户.q.executor": "Run",
+    "Gradle.添加兑换码游戏.addGames.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.M.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "external.system.has.shared.sources": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/wxfggzs/src/wxfggzs/sss/ms-core-v3/src/test/java/com/wxfggzs/app/dgraph/pffls",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "kotlin-gradle-user-dirs": [
+      "/Users/wxfggzs/.gradle"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/wxfggzs/app/dgraph/pffls" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/wxfggzs/app/dgraph/pflbs" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/wxfggzs/app/dgraph/dzfls" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wxfggzs.app.dgraph.dzfls.c" />
+      <recent name="com.wxfggzs.app.dgraph.pffls" />
+      <recent name="com.wxfggzs.app.dgraph.mpply" />
+      <recent name="com.wxfggzs.app.dgraph.ttdttzs" />
+      <recent name="com.wxfggzs.app.dgraph.pfdwj" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.Z0">
+    <configuration name="AddClient.outAllInfo" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.wxfggzs.app.dgraph.cliennt.AddClient.outAllInfo&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="AddClient.updateIcon" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.wxfggzs.app.dgraph.cliennt.AddClient.updateIcon&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="AddPangleAdUnit.download" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.wxfggzs.app.dgraph.sydhzs.AddPangleAdUnit.download&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="PangleTask.add" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.wxfggzs.app.dgraph.cyzqj.PangleTask.add&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ms-core-v3 [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="M" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <envs>
+        <env name="CORE_SERVER_PROVIDER_URL" value="http://124.223.66.228:36666/" />
+        <env name="DGRAPH_URL" value="http://124.223.66.228:8080/graphql" />
+        <env name="IP2REGION_PATH" value="$USER_HOME$/data/ip/ip2region.xdb" />
+        <env name="QQWRY_DAT_PATH" value="$USER_HOME$/data/ip/qqwry.dat" />
+        <env name="REDIS_HOST" value="127.0.0.1" />
+        <env name="REDIS_PASSWORD" value="BCA388B69933B74E1D0520F868791B0C" />
+        <env name="REDIS_PORT" value="6379" />
+        <env name="SERVICE_EVENT_PATH" value="$USER_HOME$/logs" />
+        <env name="SERVICE_LOG_EVENT" value="$USER_HOME$/logs" />
+        <env name="SERVICE_LOG_PATH" value="$USER_HOME$/logs" />
+        <env name="MYSQL_HOST" value="127.0.0.1:3306" />
+        <env name="MYSQL_PASSWORD" value="BCA388B69933B74_E1D0520F868791B0" />
+        <env name="SERVER_PORT" value="28210" />
+      </envs>
+      <module name="ms-core-v3.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wxfggzs.app.CoreV2MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="测试" type="docker-deploy" factoryName="dockerfile" folderName="M" server-name="124.223.66.228">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="ms-core-v2:1.0.0" />
+          <option name="containerName" value="ms-core-v2-test" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="28213" />
+                <option name="hostPort" value="28213" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="--network host -u root --restart=always -v /logs:/logs  -v /data:/data  -v /event:/event -v /ip:/ip -v /core:/core --env-file $PROJECT_DIR$/../../android-app-core-admin/app/src/main/assets/deploy_env/m/ms_core_v2_test.env " />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="M0" type="docker-deploy" factoryName="dockerfile" folderName="M" server-name="124.223.66.228">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="ms-core-v2:1.0.0" />
+          <option name="containerName" value="ms-core-v2-0" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="28210" />
+                <option name="hostPort" value="28210" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="--network host -u root --restart=always -v /logs:/logs  -v /data:/data  -v /event:/event -v /ip:/ip -v /core:/core --env-file $PROJECT_DIR$/../../android-app-core-admin/app/src/main/assets/deploy_env/m/ms_core_v2.env " />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="M1" type="docker-deploy" factoryName="dockerfile" folderName="M" server-name="124.223.66.228">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="ms-core-v2:1.0.0" />
+          <option name="containerName" value="ms-core-v2-1" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="28211" />
+                <option name="hostPort" value="28211" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="--network host -u root --restart=always -v /logs:/logs  -v /data:/data  -v /event:/event -v /ip:/ip -v /core:/core --env-file $PROJECT_DIR$/../../android-app-core-admin/app/src/main/assets/deploy_env/m/ms_core_v2_1.env " />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="M2" type="docker-deploy" factoryName="dockerfile" folderName="M" server-name="124.223.66.228">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="ms-core-v2:1.0.0" />
+          <option name="containerName" value="ms-core-v2-2" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="28212" />
+                <option name="hostPort" value="28212" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="--network host -u root --restart=always -v /logs:/logs  -v /data:/data  -v /event:/event -v /ip:/ip -v /core:/core --env-file $PROJECT_DIR$/../../android-app-core-admin/app/src/main/assets/deploy_env/m/ms_core_v2_2.env " />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Z0" type="docker-deploy" factoryName="dockerfile" folderName="Z" server-name="111.231.24.66">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="ms-core-v2:1.0.0" />
+          <option name="containerName" value="ms-core-v2-0" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="28210" />
+                <option name="hostPort" value="28210" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="--network host -u root --restart=always -v /logs:/logs  -v /data:/data  -v /event:/event -v /ip:/ip -v /core:/core --env-file $PROJECT_DIR$/../../android-app-core-admin/app/src/main/assets/deploy_env/z/ms_core_v2.env " />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Z1" type="docker-deploy" factoryName="dockerfile" folderName="Z" server-name="111.231.24.66">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="ms-core-v2:1.0.0" />
+          <option name="containerName" value="ms-core-v2-1" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="28211" />
+                <option name="hostPort" value="28211" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="--network host -u root --restart=always -v /logs:/logs  -v /data:/data  -v /event:/event -v /ip:/ip -v /core:/core --env-file $PROJECT_DIR$/../../android-app-core-admin/app/src/main/assets/deploy_env/z/ms_core_v2_1.env " />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.M0" />
+      <item itemvalue="Docker.M1" />
+      <item itemvalue="Docker.M2" />
+      <item itemvalue="Docker.测试" />
+      <item itemvalue="Docker.Z0" />
+      <item itemvalue="Docker.Z1" />
+      <item itemvalue="Gradle.ms-core-v3 [bootJar]" />
+      <item itemvalue="Gradle.AddClient.outAllInfo" />
+      <item itemvalue="Gradle.AddClient.updateIcon" />
+      <item itemvalue="Gradle.AddPangleAdUnit.download" />
+      <item itemvalue="Gradle.PangleTask.add" />
+      <item itemvalue="Spring Boot.M" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ms-core-v3 [bootJar]" />
+        <item itemvalue="Gradle.PangleTask.add" />
+        <item itemvalue="Gradle.AddPangleAdUnit.download" />
+        <item itemvalue="Gradle.AddClient.updateIcon" />
+        <item itemvalue="Gradle.AddClient.outAllInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-db596990d856-JavaScript-IU-241.14024.14" />
+        <option value="jdk-17.0.10-corretto-17.0.10-49964104c9db-4041ff32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dfaf524-4943-49d7-8602-c6b7f58339be" name="Changes" comment="" />
+      <created>1698487676669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698487676669</updated>
+      <workItem from="1698487677700" duration="5487000" />
+      <workItem from="1698562294261" duration="1662000" />
+      <workItem from="1698563972077" duration="15309000" />
+      <workItem from="1698671625071" duration="9779000" />
+      <workItem from="1698754949384" duration="5343000" />
+      <workItem from="1698839249359" duration="7060000" />
+      <workItem from="1698924802663" duration="4824000" />
+      <workItem from="1699022736272" duration="2533000" />
+      <workItem from="1699070412884" duration="3337000" />
+      <workItem from="1699158450038" duration="16837000" />
+      <workItem from="1699281619700" duration="2590000" />
+      <workItem from="1699683942501" duration="20602000" />
+      <workItem from="1700887774676" duration="327000" />
+      <workItem from="1700888120573" duration="5285000" />
+      <workItem from="1701178172236" duration="1358000" />
+      <workItem from="1701503976337" duration="4253000" />
+      <workItem from="1701791122908" duration="714000" />
+      <workItem from="1701952437896" duration="3883000" />
+      <workItem from="1702180464443" duration="3633000" />
+      <workItem from="1702300037278" duration="1795000" />
+      <workItem from="1702644297784" duration="621000" />
+      <workItem from="1702647151600" duration="626000" />
+      <workItem from="1702814034758" duration="217000" />
+      <workItem from="1702814268096" duration="911000" />
+      <workItem from="1702815905387" duration="1922000" />
+      <workItem from="1702818029091" duration="61000" />
+      <workItem from="1702818100064" duration="4143000" />
+      <workItem from="1702989798542" duration="3607000" />
+      <workItem from="1703165371297" duration="1109000" />
+      <workItem from="1703250582826" duration="4576000" />
+      <workItem from="1703392328488" duration="5813000" />
+      <workItem from="1703598073741" duration="2923000" />
+      <workItem from="1703681793108" duration="2596000" />
+      <workItem from="1704182479030" duration="10762000" />
+      <workItem from="1704284274269" duration="7223000" />
+      <workItem from="1704375684555" duration="3679000" />
+      <workItem from="1704457851045" duration="2511000" />
+      <workItem from="1704548307452" duration="5156000" />
+      <workItem from="1704626729458" duration="701000" />
+      <workItem from="1704721110212" duration="9114000" />
+      <workItem from="1704809725995" duration="1284000" />
+      <workItem from="1704895733417" duration="10235000" />
+      <workItem from="1705246211463" duration="1694000" />
+      <workItem from="1705332081088" duration="1160000" />
+      <workItem from="1705493647335" duration="7288000" />
+      <workItem from="1705927067984" duration="611000" />
+      <workItem from="1706016113299" duration="33000" />
+      <workItem from="1706096678142" duration="6438000" />
+      <workItem from="1706272523194" duration="4572000" />
+      <workItem from="1706419595111" duration="3283000" />
+      <workItem from="1706439919611" duration="4690000" />
+      <workItem from="1706700320015" duration="5847000" />
+      <workItem from="1707058607678" duration="700000" />
+      <workItem from="1708606896973" duration="2602000" />
+      <workItem from="1708775197043" duration="1797000" />
+      <workItem from="1708849071826" duration="11420000" />
+      <workItem from="1709208383100" duration="1440000" />
+      <workItem from="1709350266260" duration="8804000" />
+      <workItem from="1709444827779" duration="1254000" />
+      <workItem from="1709446447968" duration="4212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86608b63-e64c-4d89-a57f-abb40302cb79" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ms-core-v3/src/test/java/com/wxfggzs/app/dgraph/cyzqj/PangleTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../open-api-sdk-v2/src/test/java/com/wxfggzs/app/cyzqj/PangleTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dgraph-design-v2/src/main/java/com/wxfggzs/app/UpdateDgraphSchema1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dgraph-design-v2/src/main/java/com/wxfggzs/app/UpdateDgraphSchema1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dgraph-design-v2/version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../dgraph-design-v2/version.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-sdk-dgraph/src/main/java/com/wxfggzs/sdk/dgraph/DGraphClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-sdk-dgraph/src/main/java/com/wxfggzs/sdk/dgraph/DGraphClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxfggzs/app/component/LogServiceTakeTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxfggzs/app/component/LogServiceTakeTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-core-v3/docs/广告回调地址.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-core-v3/docs/广告回调地址.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-core-v3/pangle_header.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-core-v3/pangle_header.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-core-v3/src/main/java/com/wxfggzs/app/CoreV2MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-core-v3/src/main/java/com/wxfggzs/app/CoreV2MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-core-v3/src/main/java/com/wxfggzs/app/dgraph/impl/DWallpaperServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-core-v3/src/main/java/com/wxfggzs/app/dgraph/impl/DWallpaperServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-core-v3/src/test/java/com/wxfggzs/app/OutApkEn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-core-v3/src/test/java/com/wxfggzs/app/OutApkEn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-core-v3/src/test/java/com/wxfggzs/app/dgraph/cliennt/AddClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-core-v3/src/test/java/com/wxfggzs/app/dgraph/cliennt/AddClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-core-v3/src/test/java/com/wxfggzs/app/dgraph/sydhzs/AddPangleAdUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-core-v3/src/test/java/com/wxfggzs/app/dgraph/sydhzs/AddPangleAdUnit.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ms-admin-v3" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLabMergeRequestsSettings"><![CDATA[{}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2XWru1qMnde3MbCqxir8yQyfVbM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.M.executor": "Run",
+    "Docker.Z.executor": "Run",
+    "Gradle.ms-admin-v2 [bootJar].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/wxfggzs/src/wxfggzs/sss/ms-admin-v3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "kotlin-gradle-user-dirs": [
+      "/Users/wxfggzs/.gradle"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Docker.Z">
+    <configuration name="ms-admin-v2 [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ms-admin-v2 [generateJava]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="generateJava" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="AdminMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-admin-v3.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wxfggzs.app.AdminMainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M" type="docker-deploy" factoryName="dockerfile" server-name="124.223.66.228">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="ms-admin-v2:1.0.0" />
+          <option name="containerName" value="ms-admin-v2" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="28230" />
+                <option name="hostPort" value="28230" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="--network host -u root --restart=always -v /logs:/logs  -v /data:/data  -v /event:/event -v /ip:/ip -v /core:/core --env-file $PROJECT_DIR$/../../android-app-core-admin/app/src/main/assets/deploy_env/m/ms_admin.env" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Z" type="docker-deploy" factoryName="dockerfile" server-name="111.231.24.66">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="ms-admin-v2:1.0.0" />
+          <option name="containerName" value="ms-admin-v2" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="28230" />
+                <option name="hostPort" value="28230" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="--network host -u root --restart=always -v /logs:/logs  -v /data:/data  -v /event:/event -v /ip:/ip -v /core:/core --env-file $PROJECT_DIR$/../../android-app-core-admin/app/src/main/assets/deploy_env/z/ms_admin.env" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.M" />
+      <item itemvalue="Docker.Z" />
+      <item itemvalue="Gradle.ms-admin-v2 [bootJar]" />
+      <item itemvalue="Gradle.ms-admin-v2 [generateJava]" />
+      <item itemvalue="Spring Boot.AdminMainApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ms-admin-v2 [bootJar]" />
+        <item itemvalue="Gradle.ms-admin-v2 [generateJava]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-db596990d856-JavaScript-IU-241.14024.14" />
+        <option value="jdk-17.0.10-corretto-17.0.10-49964104c9db-4041ff32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86608b63-e64c-4d89-a57f-abb40302cb79" name="Changes" comment="" />
+      <created>1698755895125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698755895125</updated>
+      <workItem from="1698755896355" duration="1258000" />
+      <workItem from="1699794907685" duration="1355000" />
+      <workItem from="1709476672631" duration="118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
